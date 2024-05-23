@@ -1,5 +1,6 @@
 streamlit
-transformers
+transformers==4.28.1  # Specify a compatible version of transformers
 gtts
-torch
-tensorflow
+torch==1.11.0  # Specify a compatible version of PyTorch
+tensorflow==2.11.0  # Specify a compatible version of TensorFlow
+keras==2.11.0  # Specify a compatible version of Keras
