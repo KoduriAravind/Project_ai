@@ -1,4 +1,6 @@
 #code
+!pip install streamlit gtts transformers
+!npm install -g localtunnel
 import streamlit as st
 from transformers import pipeline
 from gtts import gTTS
