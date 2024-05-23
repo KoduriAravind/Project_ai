@@ -1,3 +1,5 @@
 streamlit
 transformers
 gtts
+torch
+tensorflow
